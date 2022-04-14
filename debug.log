@@ -1,0 +1,480 @@
+[0904/222900.187:ERROR:gl_surface_egl.cc(544)] EGL Driver message (Critical) eglInitialize: No available renderers.
+[0904/222900.200:ERROR:gl_surface_egl.cc(965)] eglInitialize D3D11 failed with error EGL_NOT_INITIALIZED, trying next display type
+[0904/223043.563:ERROR:gl_surface_egl.cc(544)] EGL Driver message (Critical) eglInitialize: No available renderers.
+[0904/223043.563:ERROR:gl_surface_egl.cc(965)] eglInitialize D3D11 failed with error EGL_NOT_INITIALIZED, trying next display type
+[0904/223045.057:INFO:CONSOLE(0)] "
+%cStop!", source:  (0)
+[0904/223045.058:INFO:CONSOLE(0)] "
+%cThis is a browser feature intended for developers. If someone told you to copy-paste something here to enable a Facebook feature or "hack" someone's account, it is a scam and will give them access to your Facebook account.", source:  (0)
+[0904/223045.058:INFO:CONSOLE(0)] "
+%cSee https://www.facebook.com/selfxss for more information.", source:  (0)
+[0904/223045.058:INFO:CONSOLE(0)] "
+%c", source:  (0)
+[0904/223059.310:INFO:CONSOLE(317)] "
+%cStop!", source: https://static.xx.fbcdn.net/rsrc.php/v3/yT/r/GMj00YJBc22.js?_nc_x=Y5Ou1XumfUv (317)
+[0904/223059.311:INFO:CONSOLE(317)] "
+%cThis is a browser feature intended for developers. If someone told you to copy-paste something here to enable a Facebook feature or "hack" someone's account, it is a scam and will give them access to your Facebook account.", source: https://static.xx.fbcdn.net/rsrc.php/v3/yT/r/GMj00YJBc22.js?_nc_x=Y5Ou1XumfUv (317)
+[0904/223059.311:INFO:CONSOLE(317)] "
+%cSee https://www.facebook.com/selfxss for more information.", source: https://static.xx.fbcdn.net/rsrc.php/v3/yT/r/GMj00YJBc22.js?_nc_x=Y5Ou1XumfUv (317)
+[0904/223059.311:INFO:CONSOLE(317)] "
+%c", source: https://static.xx.fbcdn.net/rsrc.php/v3/yT/r/GMj00YJBc22.js?_nc_x=Y5Ou1XumfUv (317)
+[0904/223100.098:INFO:CONSOLE(413)] "Uncaught (in promise) Error: The manifest specifies content that cannot be displayed on this browser/platform.", source: https://static.xx.fbcdn.net/rsrc.php/v3/yW/r/0KnK4PqSqSD.js?_nc_x=Y5Ou1XumfUv (413)
+[0904/223104.317:INFO:CONSOLE(413)] "Uncaught (in promise) Error: The manifest specifies content that cannot be displayed on this browser/platform.", source: https://static.xx.fbcdn.net/rsrc.php/v3/yW/r/0KnK4PqSqSD.js?_nc_x=Y5Ou1XumfUv (413)
+[0904/223107.092:INFO:CONSOLE(413)] "Uncaught (in promise) Error: The manifest specifies content that cannot be displayed on this browser/platform.", source: https://static.xx.fbcdn.net/rsrc.php/v3/yW/r/0KnK4PqSqSD.js?_nc_x=Y5Ou1XumfUv (413)
+[0904/223124.097:INFO:CONSOLE(413)] "Uncaught (in promise) Error: The manifest specifies content that cannot be displayed on this browser/platform.", source: https://static.xx.fbcdn.net/rsrc.php/v3/yW/r/0KnK4PqSqSD.js?_nc_x=Y5Ou1XumfUv (413)
+[0904/223124.117:INFO:CONSOLE(317)] "
+%cStop!", source: https://static.xx.fbcdn.net/rsrc.php/v3/yT/r/GMj00YJBc22.js?_nc_x=Y5Ou1XumfUv (317)
+[0904/223124.117:INFO:CONSOLE(317)] "
+%cThis is a browser feature intended for developers. If someone told you to copy-paste something here to enable a Facebook feature or "hack" someone's account, it is a scam and will give them access to your Facebook account.", source: https://static.xx.fbcdn.net/rsrc.php/v3/yT/r/GMj00YJBc22.js?_nc_x=Y5Ou1XumfUv (317)
+[0904/223124.117:INFO:CONSOLE(317)] "
+%cSee https://www.facebook.com/selfxss for more information.", source: https://static.xx.fbcdn.net/rsrc.php/v3/yT/r/GMj00YJBc22.js?_nc_x=Y5Ou1XumfUv (317)
+[0904/223124.117:INFO:CONSOLE(317)] "
+%c", source: https://static.xx.fbcdn.net/rsrc.php/v3/yT/r/GMj00YJBc22.js?_nc_x=Y5Ou1XumfUv (317)
+[0904/223126.049:INFO:CONSOLE(413)] "Uncaught (in promise) Error: The manifest specifies content that cannot be displayed on this browser/platform.", source: https://static.xx.fbcdn.net/rsrc.php/v3/yW/r/0KnK4PqSqSD.js?_nc_x=Y5Ou1XumfUv (413)
+[0904/223126.195:INFO:CONSOLE(413)] "Uncaught (in promise) Error: The manifest specifies content that cannot be displayed on this browser/platform.", source: https://static.xx.fbcdn.net/rsrc.php/v3/yW/r/0KnK4PqSqSD.js?_nc_x=Y5Ou1XumfUv (413)
+[0904/223150.618:INFO:CONSOLE(0)] "
+%cStop!", source:  (0)
+[0904/223150.618:INFO:CONSOLE(0)] "
+%cThis is a browser feature intended for developers. If someone told you to copy-paste something here to enable a Facebook feature or "hack" someone's account, it is a scam and will give them access to your Facebook account.", source:  (0)
+[0904/223150.618:INFO:CONSOLE(0)] "
+%cSee https://www.facebook.com/selfxss for more information.", source:  (0)
+[0904/223150.618:INFO:CONSOLE(0)] "
+%c", source:  (0)
+[0904/223205.731:ERROR:browser_process_sub_thread.cc(221)] Waited 21 ms for network service
+[0904/223215.467:ERROR:gl_surface_egl.cc(544)] EGL Driver message (Critical) eglInitialize: No available renderers.
+[0904/223215.467:ERROR:gl_surface_egl.cc(965)] eglInitialize D3D11 failed with error EGL_NOT_INITIALIZED, trying next display type
+[0904/223220.945:ERROR:browser_process_sub_thread.cc(221)] Waited 23 ms for network service
+[0904/223315.646:ERROR:gl_surface_egl.cc(544)] EGL Driver message (Critical) eglInitialize: No available renderers.
+[0904/223315.646:ERROR:gl_surface_egl.cc(965)] eglInitialize D3D11 failed with error EGL_NOT_INITIALIZED, trying next display type
+[0904/223357.152:ERROR:browser_process_sub_thread.cc(221)] Waited 20 ms for network service
+[0904/223751.916:ERROR:gl_surface_egl.cc(544)] EGL Driver message (Critical) eglInitialize: No available renderers.
+[0904/223751.916:ERROR:gl_surface_egl.cc(965)] eglInitialize D3D11 failed with error EGL_NOT_INITIALIZED, trying next display type
+[0904/223754.769:ERROR:browser_process_sub_thread.cc(221)] Waited 20 ms for network service
+[0904/223830.828:ERROR:gl_surface_egl.cc(544)] EGL Driver message (Critical) eglInitialize: No available renderers.
+[0904/223830.828:ERROR:gl_surface_egl.cc(965)] eglInitialize D3D11 failed with error EGL_NOT_INITIALIZED, trying next display type
+[0904/224254.525:ERROR:gl_surface_egl.cc(544)] EGL Driver message (Critical) eglInitialize: No available renderers.
+[0904/224254.525:ERROR:gl_surface_egl.cc(965)] eglInitialize D3D11 failed with error EGL_NOT_INITIALIZED, trying next display type
+[0905/085241.545:ERROR:gl_surface_egl.cc(544)] EGL Driver message (Critical) eglInitialize: No available renderers.
+[0905/085241.561:ERROR:gl_surface_egl.cc(965)] eglInitialize D3D11 failed with error EGL_NOT_INITIALIZED, trying next display type
+[0905/085450.908:ERROR:gl_surface_egl.cc(544)] EGL Driver message (Critical) eglInitialize: No available renderers.
+[0905/085450.908:ERROR:gl_surface_egl.cc(965)] eglInitialize D3D11 failed with error EGL_NOT_INITIALIZED, trying next display type
+[0905/085456.015:ERROR:browser_process_sub_thread.cc(221)] Waited 26 ms for network service
+[0905/085518.827:ERROR:gl_surface_egl.cc(544)] EGL Driver message (Critical) eglInitialize: No available renderers.
+[0905/085518.828:ERROR:gl_surface_egl.cc(965)] eglInitialize D3D11 failed with error EGL_NOT_INITIALIZED, trying next display type
+[0905/085531.182:ERROR:browser_process_sub_thread.cc(221)] Waited 18 ms for network service
+[0905/085542.847:ERROR:gl_surface_egl.cc(544)] EGL Driver message (Critical) eglInitialize: No available renderers.
+[0905/085542.848:ERROR:gl_surface_egl.cc(965)] eglInitialize D3D11 failed with error EGL_NOT_INITIALIZED, trying next display type
+[0905/085602.267:ERROR:gl_surface_egl.cc(544)] EGL Driver message (Critical) eglInitialize: No available renderers.
+[0905/085602.267:ERROR:gl_surface_egl.cc(965)] eglInitialize D3D11 failed with error EGL_NOT_INITIALIZED, trying next display type
+[0905/085738.495:ERROR:gl_surface_egl.cc(544)] EGL Driver message (Critical) eglInitialize: No available renderers.
+[0905/085738.495:ERROR:gl_surface_egl.cc(965)] eglInitialize D3D11 failed with error EGL_NOT_INITIALIZED, trying next display type
+[0905/085819.520:ERROR:browser_process_sub_thread.cc(221)] Waited 19 ms for network service
+[0905/085838.635:ERROR:gl_surface_egl.cc(544)] EGL Driver message (Critical) eglInitialize: No available renderers.
+[0905/085838.635:ERROR:gl_surface_egl.cc(965)] eglInitialize D3D11 failed with error EGL_NOT_INITIALIZED, trying next display type
+[0905/085905.413:ERROR:gl_surface_egl.cc(544)] EGL Driver message (Critical) eglInitialize: No available renderers.
+[0905/085905.413:ERROR:gl_surface_egl.cc(965)] eglInitialize D3D11 failed with error EGL_NOT_INITIALIZED, trying next display type
+[0905/085915.947:ERROR:gl_surface_egl.cc(544)] EGL Driver message (Critical) eglInitialize: No available renderers.
+[0905/085915.947:ERROR:gl_surface_egl.cc(965)] eglInitialize D3D11 failed with error EGL_NOT_INITIALIZED, trying next display type
+[0905/091123.703:ERROR:gl_surface_egl.cc(544)] EGL Driver message (Critical) eglInitialize: No available renderers.
+[0905/091123.704:ERROR:gl_surface_egl.cc(965)] eglInitialize D3D11 failed with error EGL_NOT_INITIALIZED, trying next display type
+[0905/091141.335:ERROR:browser_process_sub_thread.cc(221)] Waited 18 ms for network service
+[0905/091154.643:ERROR:gl_surface_egl.cc(544)] EGL Driver message (Critical) eglInitialize: No available renderers.
+[0905/091154.643:ERROR:gl_surface_egl.cc(965)] eglInitialize D3D11 failed with error EGL_NOT_INITIALIZED, trying next display type
+[0905/091245.486:ERROR:browser_process_sub_thread.cc(221)] Waited 19 ms for network service
+[0905/091319.488:ERROR:gl_surface_egl.cc(544)] EGL Driver message (Critical) eglInitialize: No available renderers.
+[0905/091319.488:ERROR:gl_surface_egl.cc(965)] eglInitialize D3D11 failed with error EGL_NOT_INITIALIZED, trying next display type
+[0905/091402.713:ERROR:gl_surface_egl.cc(544)] EGL Driver message (Critical) eglInitialize: No available renderers.
+[0905/091402.713:ERROR:gl_surface_egl.cc(965)] eglInitialize D3D11 failed with error EGL_NOT_INITIALIZED, trying next display type
+[0905/091457.518:ERROR:browser_process_sub_thread.cc(221)] Waited 19 ms for network service
+[0905/091627.352:ERROR:gl_surface_egl.cc(544)] EGL Driver message (Critical) eglInitialize: No available renderers.
+[0905/091627.353:ERROR:gl_surface_egl.cc(965)] eglInitialize D3D11 failed with error EGL_NOT_INITIALIZED, trying next display type
+[0905/091634.980:ERROR:browser_process_sub_thread.cc(221)] Waited 18 ms for network service
+[0905/091704.073:ERROR:gl_surface_egl.cc(544)] EGL Driver message (Critical) eglInitialize: No available renderers.
+[0905/091704.073:ERROR:gl_surface_egl.cc(965)] eglInitialize D3D11 failed with error EGL_NOT_INITIALIZED, trying next display type
+[0905/091706.927:ERROR:browser_process_sub_thread.cc(221)] Waited 18 ms for network service
+[0905/091835.173:ERROR:gl_surface_egl.cc(544)] EGL Driver message (Critical) eglInitialize: No available renderers.
+[0905/091835.173:ERROR:gl_surface_egl.cc(965)] eglInitialize D3D11 failed with error EGL_NOT_INITIALIZED, trying next display type
+[0905/091850.218:ERROR:browser_process_sub_thread.cc(221)] Waited 21 ms for network service
+[0905/091911.187:ERROR:gl_surface_egl.cc(544)] EGL Driver message (Critical) eglInitialize: No available renderers.
+[0905/091911.188:ERROR:gl_surface_egl.cc(965)] eglInitialize D3D11 failed with error EGL_NOT_INITIALIZED, trying next display type
+[0905/091929.257:ERROR:browser_process_sub_thread.cc(221)] Waited 19 ms for network service
+[0905/092606.845:ERROR:gl_surface_egl.cc(544)] EGL Driver message (Critical) eglInitialize: No available renderers.
+[0905/092606.845:ERROR:gl_surface_egl.cc(965)] eglInitialize D3D11 failed with error EGL_NOT_INITIALIZED, trying next display type
+[0905/092713.134:ERROR:gl_surface_egl.cc(544)] EGL Driver message (Critical) eglInitialize: No available renderers.
+[0905/092713.134:ERROR:gl_surface_egl.cc(965)] eglInitialize D3D11 failed with error EGL_NOT_INITIALIZED, trying next display type
+[0905/092722.169:ERROR:browser_process_sub_thread.cc(221)] Waited 19 ms for network service
+[0905/093121.878:ERROR:gl_surface_egl.cc(544)] EGL Driver message (Critical) eglInitialize: No available renderers.
+[0905/093121.878:ERROR:gl_surface_egl.cc(965)] eglInitialize D3D11 failed with error EGL_NOT_INITIALIZED, trying next display type
+[0905/093257.663:ERROR:gl_surface_egl.cc(544)] EGL Driver message (Critical) eglInitialize: No available renderers.
+[0905/093257.663:ERROR:gl_surface_egl.cc(965)] eglInitialize D3D11 failed with error EGL_NOT_INITIALIZED, trying next display type
+[0905/094026.473:ERROR:browser_process_sub_thread.cc(221)] Waited 27 ms for network service
+[0905/182812.578:ERROR:gl_surface_egl.cc(544)] EGL Driver message (Critical) eglInitialize: No available renderers.
+[0905/182812.732:ERROR:gl_surface_egl.cc(965)] eglInitialize D3D11 failed with error EGL_NOT_INITIALIZED, trying next display type
+[0905/182902.914:ERROR:browser_process_sub_thread.cc(221)] Waited 41 ms for network service
+[0905/182932.169:ERROR:gl_surface_egl.cc(544)] EGL Driver message (Critical) eglInitialize: No available renderers.
+[0905/182932.170:ERROR:gl_surface_egl.cc(965)] eglInitialize D3D11 failed with error EGL_NOT_INITIALIZED, trying next display type
+[0905/183000.256:ERROR:browser_process_sub_thread.cc(221)] Waited 19 ms for network service
+[0905/183121.637:ERROR:gl_surface_egl.cc(544)] EGL Driver message (Critical) eglInitialize: No available renderers.
+[0905/183121.637:ERROR:gl_surface_egl.cc(965)] eglInitialize D3D11 failed with error EGL_NOT_INITIALIZED, trying next display type
+[0905/183125.133:ERROR:browser_process_sub_thread.cc(221)] Waited 19 ms for network service
+[0905/183158.332:ERROR:gl_surface_egl.cc(544)] EGL Driver message (Critical) eglInitialize: No available renderers.
+[0905/183158.332:ERROR:gl_surface_egl.cc(965)] eglInitialize D3D11 failed with error EGL_NOT_INITIALIZED, trying next display type
+[0905/183201.326:INFO:CONSOLE(0)] "
+%cStop!", source:  (0)
+[0905/183201.326:INFO:CONSOLE(0)] "
+%cThis is a browser feature intended for developers. If someone told you to copy-paste something here to enable a Facebook feature or "hack" someone's account, it is a scam and will give them access to your Facebook account.", source:  (0)
+[0905/183201.327:INFO:CONSOLE(0)] "
+%cSee https://www.facebook.com/selfxss for more information.", source:  (0)
+[0905/183201.327:INFO:CONSOLE(0)] "
+%c", source:  (0)
+[0905/183222.405:INFO:CONSOLE(317)] "
+%cStop!", source: https://static.xx.fbcdn.net/rsrc.php/v3/yg/r/Ark3ms0td1d.js?_nc_x=Y5Ou1XumfUv (317)
+[0905/183222.405:INFO:CONSOLE(317)] "
+%cThis is a browser feature intended for developers. If someone told you to copy-paste something here to enable a Facebook feature or "hack" someone's account, it is a scam and will give them access to your Facebook account.", source: https://static.xx.fbcdn.net/rsrc.php/v3/yg/r/Ark3ms0td1d.js?_nc_x=Y5Ou1XumfUv (317)
+[0905/183222.405:INFO:CONSOLE(317)] "
+%cSee https://www.facebook.com/selfxss for more information.", source: https://static.xx.fbcdn.net/rsrc.php/v3/yg/r/Ark3ms0td1d.js?_nc_x=Y5Ou1XumfUv (317)
+[0905/183222.405:INFO:CONSOLE(317)] "
+%c", source: https://static.xx.fbcdn.net/rsrc.php/v3/yg/r/Ark3ms0td1d.js?_nc_x=Y5Ou1XumfUv (317)
+[0905/183222.406:INFO:CONSOLE(413)] "Uncaught (in promise) Error: The manifest specifies content that cannot be displayed on this browser/platform.", source: https://static.xx.fbcdn.net/rsrc.php/v3/yW/r/0KnK4PqSqSD.js?_nc_x=Y5Ou1XumfUv (413)
+[0905/183225.339:INFO:CONSOLE(0)] "
+%cStop!", source:  (0)
+[0905/183225.339:INFO:CONSOLE(0)] "
+%cThis is a browser feature intended for developers. If someone told you to copy-paste something here to enable a Facebook feature or "hack" someone's account, it is a scam and will give them access to your Facebook account.", source:  (0)
+[0905/183225.339:INFO:CONSOLE(0)] "
+%cSee https://www.facebook.com/selfxss for more information.", source:  (0)
+[0905/183225.339:INFO:CONSOLE(0)] "
+%c", source:  (0)
+[0905/183226.395:ERROR:browser_process_sub_thread.cc(221)] Waited 26 ms for network service
+[0905/183241.110:ERROR:gl_surface_egl.cc(544)] EGL Driver message (Critical) eglInitialize: No available renderers.
+[0905/183241.110:ERROR:gl_surface_egl.cc(965)] eglInitialize D3D11 failed with error EGL_NOT_INITIALIZED, trying next display type
+[0905/183302.244:ERROR:gl_surface_egl.cc(544)] EGL Driver message (Critical) eglPostSubBufferNV: Context lost.
+[0905/183302.244:ERROR:gles2_cmd_decoder.cc(16711)] Context lost because SwapBuffers failed.
+[0905/183302.244:ERROR:gles2_cmd_decoder.cc(17080)] Onscreen context lost via ARB/EXT_robustness. Reset status = GL_UNKNOWN_CONTEXT_RESET_KHR
+[0905/183302.266:ERROR:gles2_cmd_decoder.cc(6040)] Error: 5 for Command kPostSubBufferCHROMIUM
+[0905/183302.266:ERROR:gpu_service_impl.cc(809)] Exiting GPU process because some drivers can't recover from errors. GPU process will restart shortly.
+[0905/183302.266:ERROR:gl_surface_egl.cc(544)] EGL Driver message (Critical) eglMakeCurrent: display had a context loss
+[0905/183302.266:ERROR:gl_surface_egl.cc(544)] EGL Driver message (Critical) eglMakeCurrent: Context lost.
+[0905/183302.266:ERROR:gl_surface_egl.cc(544)] EGL Driver message (Critical) eglDestroyContext: display had a context loss
+[0905/183302.266:ERROR:gl_context_egl.cc(207)] eglDestroyContext failed with error EGL_CONTEXT_LOST
+[0905/183302.267:ERROR:gl_surface_egl.cc(544)] EGL Driver message (Critical) eglMakeCurrent: display had a context loss
+[0905/183302.267:ERROR:gl_surface_egl.cc(544)] EGL Driver message (Critical) eglMakeCurrent: display had a context loss
+[0905/183302.267:ERROR:gl_surface_egl.cc(544)] EGL Driver message (Critical) eglDestroyContext: display had a context loss
+[0905/183302.267:ERROR:gl_context_egl.cc(207)] eglDestroyContext failed with error EGL_CONTEXT_LOST
+[0905/183302.267:ERROR:gl_surface_egl.cc(544)] EGL Driver message (Critical) eglMakeCurrent: display had a context loss
+[0905/183302.267:ERROR:gl_surface_egl.cc(544)] EGL Driver message (Critical) eglMakeCurrent: display had a context loss
+[0905/183302.267:ERROR:shared_image_stub.cc(286)] SharedImageStub: MakeCurrent failed
+[0905/183302.267:ERROR:gl_surface_egl.cc(544)] EGL Driver message (Critical) eglDestroySurface: display had a context loss
+[0905/183302.267:ERROR:gl_surface_egl.cc(1198)] eglDestroySurface failed with error EGL_CONTEXT_LOST
+[0905/183302.267:ERROR:gl_surface_egl.cc(544)] EGL Driver message (Critical) eglDestroyContext: display had a context loss
+[0905/183302.267:ERROR:gl_context_egl.cc(207)] eglDestroyContext failed with error EGL_CONTEXT_LOST
+[0905/183302.268:ERROR:gl_surface_egl.cc(544)] EGL Driver message (Critical) eglDestroyContext: display had a context loss
+[0905/183302.268:ERROR:gl_context_egl.cc(207)] eglDestroyContext failed with error EGL_CONTEXT_LOST
+[0905/183934.234:ERROR:gl_surface_egl.cc(544)] EGL Driver message (Critical) eglInitialize: No available renderers.
+[0905/183934.234:ERROR:gl_surface_egl.cc(965)] eglInitialize D3D11 failed with error EGL_NOT_INITIALIZED, trying next display type
+[0905/184103.119:ERROR:browser_process_sub_thread.cc(221)] Waited 20 ms for network service
+[0905/184933.141:ERROR:gl_surface_egl.cc(544)] EGL Driver message (Critical) eglInitialize: No available renderers.
+[0905/184933.141:ERROR:gl_surface_egl.cc(965)] eglInitialize D3D11 failed with error EGL_NOT_INITIALIZED, trying next display type
+[0905/184937.240:ERROR:browser_process_sub_thread.cc(221)] Waited 20 ms for network service
+[0905/190303.041:ERROR:gl_surface_egl.cc(544)] EGL Driver message (Critical) eglInitialize: No available renderers.
+[0905/190303.041:ERROR:gl_surface_egl.cc(965)] eglInitialize D3D11 failed with error EGL_NOT_INITIALIZED, trying next display type
+[0905/190622.433:ERROR:gl_surface_egl.cc(544)] EGL Driver message (Critical) eglPostSubBufferNV: Context lost.
+[0905/190622.433:ERROR:gles2_cmd_decoder.cc(16711)] Context lost because SwapBuffers failed.
+[0905/190622.433:ERROR:gles2_cmd_decoder.cc(17080)] Onscreen context lost via ARB/EXT_robustness. Reset status = GL_UNKNOWN_CONTEXT_RESET_KHR
+[0905/190622.433:ERROR:gles2_cmd_decoder.cc(6040)] Error: 5 for Command kPostSubBufferCHROMIUM
+[0905/190622.433:ERROR:gpu_service_impl.cc(809)] Exiting GPU process because some drivers can't recover from errors. GPU process will restart shortly.
+[0905/190622.433:ERROR:gl_surface_egl.cc(544)] EGL Driver message (Critical) eglMakeCurrent: display had a context loss
+[0905/190622.433:ERROR:gl_surface_egl.cc(544)] EGL Driver message (Critical) eglMakeCurrent: Context lost.
+[0905/190622.433:ERROR:gl_surface_egl.cc(544)] EGL Driver message (Critical) eglDestroyContext: display had a context loss
+[0905/190622.433:ERROR:gl_context_egl.cc(207)] eglDestroyContext failed with error EGL_CONTEXT_LOST
+[0905/190622.433:ERROR:gl_surface_egl.cc(544)] EGL Driver message (Critical) eglMakeCurrent: display had a context loss
+[0905/190622.433:ERROR:gl_surface_egl.cc(544)] EGL Driver message (Critical) eglMakeCurrent: display had a context loss
+[0905/190622.433:ERROR:gl_surface_egl.cc(544)] EGL Driver message (Critical) eglDestroyContext: display had a context loss
+[0905/190622.434:ERROR:gl_context_egl.cc(207)] eglDestroyContext failed with error EGL_CONTEXT_LOST
+[0905/190622.434:ERROR:gl_surface_egl.cc(544)] EGL Driver message (Critical) eglMakeCurrent: display had a context loss
+[0905/190622.434:ERROR:gl_surface_egl.cc(544)] EGL Driver message (Critical) eglMakeCurrent: display had a context loss
+[0905/190622.434:ERROR:shared_image_stub.cc(286)] SharedImageStub: MakeCurrent failed
+[0905/190622.434:ERROR:gl_surface_egl.cc(544)] EGL Driver message (Critical) eglDestroySurface: display had a context loss
+[0905/190622.434:ERROR:gl_surface_egl.cc(1198)] eglDestroySurface failed with error EGL_CONTEXT_LOST
+[0905/190622.434:ERROR:gl_surface_egl.cc(544)] EGL Driver message (Critical) eglDestroyContext: display had a context loss
+[0905/190622.434:ERROR:gl_context_egl.cc(207)] eglDestroyContext failed with error EGL_CONTEXT_LOST
+[0905/190622.435:ERROR:gl_surface_egl.cc(544)] EGL Driver message (Critical) eglDestroyContext: display had a context loss
+[0905/190622.435:ERROR:gl_context_egl.cc(207)] eglDestroyContext failed with error EGL_CONTEXT_LOST
+[0905/191412.472:ERROR:gl_surface_egl.cc(544)] EGL Driver message (Critical) eglInitialize: No available renderers.
+[0905/191412.472:ERROR:gl_surface_egl.cc(965)] eglInitialize D3D11 failed with error EGL_NOT_INITIALIZED, trying next display type
+[0905/191424.930:ERROR:gl_surface_egl.cc(544)] EGL Driver message (Critical) eglPostSubBufferNV: Context lost.
+[0905/191424.930:ERROR:gles2_cmd_decoder.cc(16711)] Context lost because SwapBuffers failed.
+[0905/191424.930:ERROR:gles2_cmd_decoder.cc(17080)] Onscreen context lost via ARB/EXT_robustness. Reset status = GL_UNKNOWN_CONTEXT_RESET_KHR
+[0905/191424.930:ERROR:gles2_cmd_decoder.cc(6040)] Error: 5 for Command kPostSubBufferCHROMIUM
+[0905/191424.930:ERROR:gpu_service_impl.cc(809)] Exiting GPU process because some drivers can't recover from errors. GPU process will restart shortly.
+[0905/191424.931:ERROR:gl_surface_egl.cc(544)] EGL Driver message (Critical) eglMakeCurrent: display had a context loss
+[0905/191424.931:ERROR:gl_surface_egl.cc(544)] EGL Driver message (Critical) eglMakeCurrent: Context lost.
+[0905/191424.931:ERROR:gl_surface_egl.cc(544)] EGL Driver message (Critical) eglDestroyContext: display had a context loss
+[0905/191424.931:ERROR:gl_context_egl.cc(207)] eglDestroyContext failed with error EGL_CONTEXT_LOST
+[0905/191424.931:ERROR:gl_surface_egl.cc(544)] EGL Driver message (Critical) eglMakeCurrent: display had a context loss
+[0905/191424.932:ERROR:gl_surface_egl.cc(544)] EGL Driver message (Critical) eglMakeCurrent: display had a context loss
+[0905/191424.932:ERROR:gl_surface_egl.cc(544)] EGL Driver message (Critical) eglDestroyContext: display had a context loss
+[0905/191424.932:ERROR:gl_context_egl.cc(207)] eglDestroyContext failed with error EGL_CONTEXT_LOST
+[0905/191424.932:ERROR:gl_surface_egl.cc(544)] EGL Driver message (Critical) eglMakeCurrent: display had a context loss
+[0905/191424.932:ERROR:gl_surface_egl.cc(544)] EGL Driver message (Critical) eglMakeCurrent: display had a context loss
+[0905/191424.932:ERROR:shared_image_stub.cc(286)] SharedImageStub: MakeCurrent failed
+[0905/191424.933:ERROR:gl_surface_egl.cc(544)] EGL Driver message (Critical) eglDestroySurface: display had a context loss
+[0905/191424.933:ERROR:gl_surface_egl.cc(1198)] eglDestroySurface failed with error EGL_CONTEXT_LOST
+[0905/191424.933:ERROR:gl_surface_egl.cc(544)] EGL Driver message (Critical) eglDestroyContext: display had a context loss
+[0905/191424.933:ERROR:gl_context_egl.cc(207)] eglDestroyContext failed with error EGL_CONTEXT_LOST
+[0905/191424.934:ERROR:gl_surface_egl.cc(544)] EGL Driver message (Critical) eglDestroyContext: display had a context loss
+[0905/191424.934:ERROR:gl_context_egl.cc(207)] eglDestroyContext failed with error EGL_CONTEXT_LOST
+[0905/192254.470:ERROR:gl_surface_egl.cc(544)] EGL Driver message (Critical) eglInitialize: No available renderers.
+[0905/192254.471:ERROR:gl_surface_egl.cc(965)] eglInitialize D3D11 failed with error EGL_NOT_INITIALIZED, trying next display type
+[0905/192310.065:ERROR:gl_surface_egl.cc(544)] EGL Driver message (Critical) eglPostSubBufferNV: Context lost.
+[0905/192310.065:ERROR:gles2_cmd_decoder.cc(16711)] Context lost because SwapBuffers failed.
+[0905/192310.065:ERROR:gles2_cmd_decoder.cc(17080)] Onscreen context lost via ARB/EXT_robustness. Reset status = GL_UNKNOWN_CONTEXT_RESET_KHR
+[0905/192310.065:ERROR:gles2_cmd_decoder.cc(6040)] Error: 5 for Command kPostSubBufferCHROMIUM
+[0905/192310.065:ERROR:gpu_service_impl.cc(809)] Exiting GPU process because some drivers can't recover from errors. GPU process will restart shortly.
+[0905/192310.065:ERROR:gl_surface_egl.cc(544)] EGL Driver message (Critical) eglMakeCurrent: display had a context loss
+[0905/192310.065:ERROR:gl_surface_egl.cc(544)] EGL Driver message (Critical) eglMakeCurrent: Context lost.
+[0905/192310.065:ERROR:gl_surface_egl.cc(544)] EGL Driver message (Critical) eglDestroyContext: display had a context loss
+[0905/192310.065:ERROR:gl_context_egl.cc(207)] eglDestroyContext failed with error EGL_CONTEXT_LOST
+[0905/192310.065:ERROR:gl_surface_egl.cc(544)] EGL Driver message (Critical) eglMakeCurrent: display had a context loss
+[0905/192310.066:ERROR:gl_surface_egl.cc(544)] EGL Driver message (Critical) eglMakeCurrent: display had a context loss
+[0905/192310.066:ERROR:gl_surface_egl.cc(544)] EGL Driver message (Critical) eglDestroyContext: display had a context loss
+[0905/192310.066:ERROR:gl_context_egl.cc(207)] eglDestroyContext failed with error EGL_CONTEXT_LOST
+[0905/192310.066:ERROR:gl_surface_egl.cc(544)] EGL Driver message (Critical) eglMakeCurrent: display had a context loss
+[0905/192310.066:ERROR:gl_surface_egl.cc(544)] EGL Driver message (Critical) eglMakeCurrent: display had a context loss
+[0905/192310.066:ERROR:shared_image_stub.cc(286)] SharedImageStub: MakeCurrent failed
+[0905/192310.066:ERROR:gl_surface_egl.cc(544)] EGL Driver message (Critical) eglDestroySurface: display had a context loss
+[0905/192310.066:ERROR:gl_surface_egl.cc(1198)] eglDestroySurface failed with error EGL_CONTEXT_LOST
+[0905/192310.066:ERROR:gl_surface_egl.cc(544)] EGL Driver message (Critical) eglDestroyContext: display had a context loss
+[0905/192310.066:ERROR:gl_context_egl.cc(207)] eglDestroyContext failed with error EGL_CONTEXT_LOST
+[0905/192310.067:ERROR:gl_surface_egl.cc(544)] EGL Driver message (Critical) eglDestroyContext: display had a context loss
+[0905/192310.067:ERROR:gl_context_egl.cc(207)] eglDestroyContext failed with error EGL_CONTEXT_LOST
+[0905/193925.043:ERROR:gl_surface_egl.cc(544)] EGL Driver message (Critical) eglInitialize: No available renderers.
+[0905/193925.043:ERROR:gl_surface_egl.cc(965)] eglInitialize D3D11 failed with error EGL_NOT_INITIALIZED, trying next display type
+[0905/193927.328:ERROR:browser_process_sub_thread.cc(221)] Waited 19 ms for network service
+[0905/194254.246:ERROR:gl_surface_egl.cc(544)] EGL Driver message (Critical) eglInitialize: No available renderers.
+[0905/194254.247:ERROR:gl_surface_egl.cc(965)] eglInitialize D3D11 failed with error EGL_NOT_INITIALIZED, trying next display type
+[0905/202711.736:ERROR:gl_surface_egl.cc(544)] EGL Driver message (Critical) eglInitialize: No available renderers.
+[0905/202711.736:ERROR:gl_surface_egl.cc(965)] eglInitialize D3D11 failed with error EGL_NOT_INITIALIZED, trying next display type
+[0905/205822.301:ERROR:gl_surface_egl.cc(544)] EGL Driver message (Critical) eglInitialize: No available renderers.
+[0905/205822.301:ERROR:gl_surface_egl.cc(965)] eglInitialize D3D11 failed with error EGL_NOT_INITIALIZED, trying next display type
+[0905/205827.320:ERROR:browser_process_sub_thread.cc(221)] Waited 19 ms for network service
+[0905/215152.622:ERROR:gl_surface_egl.cc(544)] EGL Driver message (Critical) eglInitialize: No available renderers.
+[0905/215152.622:ERROR:gl_surface_egl.cc(965)] eglInitialize D3D11 failed with error EGL_NOT_INITIALIZED, trying next display type
+[0905/215153.355:ERROR:browser_process_sub_thread.cc(221)] Waited 19 ms for network service
+[0905/215643.116:ERROR:gl_surface_egl.cc(544)] EGL Driver message (Critical) eglInitialize: No available renderers.
+[0905/215643.116:ERROR:gl_surface_egl.cc(965)] eglInitialize D3D11 failed with error EGL_NOT_INITIALIZED, trying next display type
+[0905/215644.410:ERROR:browser_process_sub_thread.cc(221)] Waited 19 ms for network service
+[0905/215909.661:ERROR:gl_surface_egl.cc(544)] EGL Driver message (Critical) eglInitialize: No available renderers.
+[0905/215909.661:ERROR:gl_surface_egl.cc(965)] eglInitialize D3D11 failed with error EGL_NOT_INITIALIZED, trying next display type
+[0905/215911.420:ERROR:browser_process_sub_thread.cc(221)] Waited 19 ms for network service
+[0905/220823.914:ERROR:gl_surface_egl.cc(544)] EGL Driver message (Critical) eglInitialize: No available renderers.
+[0905/220823.914:ERROR:gl_surface_egl.cc(965)] eglInitialize D3D11 failed with error EGL_NOT_INITIALIZED, trying next display type
+[0905/221023.018:ERROR:browser_process_sub_thread.cc(221)] Waited 18 ms for network service
+[0905/221204.500:ERROR:gl_surface_egl.cc(544)] EGL Driver message (Critical) eglInitialize: No available renderers.
+[0905/221204.500:ERROR:gl_surface_egl.cc(965)] eglInitialize D3D11 failed with error EGL_NOT_INITIALIZED, trying next display type
+[0905/221214.061:ERROR:browser_process_sub_thread.cc(221)] Waited 19 ms for network service
+[0906/182503.563:ERROR:gl_surface_egl.cc(544)] EGL Driver message (Critical) eglInitialize: No available renderers.
+[0906/182503.580:ERROR:gl_surface_egl.cc(965)] eglInitialize D3D11 failed with error EGL_NOT_INITIALIZED, trying next display type
+[0906/182534.701:ERROR:browser_process_sub_thread.cc(221)] Waited 20 ms for network service
+[0906/182746.463:ERROR:gl_surface_egl.cc(544)] EGL Driver message (Critical) eglInitialize: No available renderers.
+[0906/182746.463:ERROR:gl_surface_egl.cc(965)] eglInitialize D3D11 failed with error EGL_NOT_INITIALIZED, trying next display type
+[0906/182807.654:ERROR:gl_surface_egl.cc(544)] EGL Driver message (Critical) eglPostSubBufferNV: Context lost.
+[0906/182807.654:ERROR:gles2_cmd_decoder.cc(16711)] Context lost because SwapBuffers failed.
+[0906/182807.654:ERROR:gles2_cmd_decoder.cc(17080)] Onscreen context lost via ARB/EXT_robustness. Reset status = GL_UNKNOWN_CONTEXT_RESET_KHR
+[0906/182807.654:ERROR:gles2_cmd_decoder.cc(6040)] Error: 5 for Command kPostSubBufferCHROMIUM
+[0906/182807.654:ERROR:gpu_service_impl.cc(809)] Exiting GPU process because some drivers can't recover from errors. GPU process will restart shortly.
+[0906/182807.654:ERROR:gl_surface_egl.cc(544)] EGL Driver message (Critical) eglMakeCurrent: display had a context loss
+[0906/182807.654:ERROR:gl_surface_egl.cc(544)] EGL Driver message (Critical) eglMakeCurrent: Context lost.
+[0906/182807.654:ERROR:gl_surface_egl.cc(544)] EGL Driver message (Critical) eglDestroyContext: display had a context loss
+[0906/182807.654:ERROR:gl_context_egl.cc(207)] eglDestroyContext failed with error EGL_CONTEXT_LOST
+[0906/182807.654:ERROR:gl_surface_egl.cc(544)] EGL Driver message (Critical) eglMakeCurrent: display had a context loss
+[0906/182807.655:ERROR:gl_surface_egl.cc(544)] EGL Driver message (Critical) eglDestroySurface: display had a context loss
+[0906/182807.655:ERROR:gl_surface_egl.cc(1198)] eglDestroySurface failed with error EGL_CONTEXT_LOST
+[0906/182807.655:ERROR:gl_surface_egl.cc(544)] EGL Driver message (Critical) eglDestroyContext: display had a context loss
+[0906/182807.655:ERROR:gl_context_egl.cc(207)] eglDestroyContext failed with error EGL_CONTEXT_LOST
+[0906/182807.655:ERROR:gl_surface_egl.cc(544)] EGL Driver message (Critical) eglMakeCurrent: display had a context loss
+[0906/182807.655:ERROR:gl_surface_egl.cc(544)] EGL Driver message (Critical) eglDestroyContext: display had a context loss
+[0906/182807.655:ERROR:gl_context_egl.cc(207)] eglDestroyContext failed with error EGL_CONTEXT_LOST
+[0906/182807.655:ERROR:gl_surface_egl.cc(544)] EGL Driver message (Critical) eglMakeCurrent: display had a context loss
+[0906/182807.655:ERROR:gl_surface_egl.cc(544)] EGL Driver message (Critical) eglMakeCurrent: display had a context loss
+[0906/182807.655:ERROR:shared_image_stub.cc(286)] SharedImageStub: MakeCurrent failed
+[0906/182807.656:ERROR:gl_surface_egl.cc(544)] EGL Driver message (Critical) eglDestroyContext: display had a context loss
+[0906/182807.656:ERROR:gl_context_egl.cc(207)] eglDestroyContext failed with error EGL_CONTEXT_LOST
+[0906/182941.702:ERROR:gl_surface_egl.cc(544)] EGL Driver message (Critical) eglInitialize: No available renderers.
+[0906/182941.702:ERROR:gl_surface_egl.cc(965)] eglInitialize D3D11 failed with error EGL_NOT_INITIALIZED, trying next display type
+[0906/183112.788:ERROR:gl_surface_egl.cc(544)] EGL Driver message (Critical) eglPostSubBufferNV: Context lost.
+[0906/183112.788:ERROR:gles2_cmd_decoder.cc(16711)] Context lost because SwapBuffers failed.
+[0906/183112.788:ERROR:gles2_cmd_decoder.cc(17080)] Onscreen context lost via ARB/EXT_robustness. Reset status = GL_UNKNOWN_CONTEXT_RESET_KHR
+[0906/183112.788:ERROR:gles2_cmd_decoder.cc(6040)] Error: 5 for Command kPostSubBufferCHROMIUM
+[0906/183112.788:ERROR:gpu_service_impl.cc(809)] Exiting GPU process because some drivers can't recover from errors. GPU process will restart shortly.
+[0906/183112.788:ERROR:gl_surface_egl.cc(544)] EGL Driver message (Critical) eglMakeCurrent: display had a context loss
+[0906/183112.788:ERROR:gl_surface_egl.cc(544)] EGL Driver message (Critical) eglMakeCurrent: Context lost.
+[0906/183112.788:ERROR:gl_surface_egl.cc(544)] EGL Driver message (Critical) eglDestroyContext: display had a context loss
+[0906/183112.788:ERROR:gl_context_egl.cc(207)] eglDestroyContext failed with error EGL_CONTEXT_LOST
+[0906/183112.788:ERROR:gl_surface_egl.cc(544)] EGL Driver message (Critical) eglMakeCurrent: display had a context loss
+[0906/183112.788:ERROR:gl_surface_egl.cc(544)] EGL Driver message (Critical) eglMakeCurrent: display had a context loss
+[0906/183112.788:ERROR:gl_surface_egl.cc(544)] EGL Driver message (Critical) eglDestroyContext: display had a context loss
+[0906/183112.788:ERROR:gl_context_egl.cc(207)] eglDestroyContext failed with error EGL_CONTEXT_LOST
+[0906/183112.789:ERROR:gl_surface_egl.cc(544)] EGL Driver message (Critical) eglMakeCurrent: display had a context loss
+[0906/183112.789:ERROR:gl_surface_egl.cc(544)] EGL Driver message (Critical) eglMakeCurrent: display had a context loss
+[0906/183112.789:ERROR:shared_image_stub.cc(286)] SharedImageStub: MakeCurrent failed
+[0906/183112.789:ERROR:gl_surface_egl.cc(544)] EGL Driver message (Critical) eglDestroySurface: display had a context loss
+[0906/183112.789:ERROR:gl_surface_egl.cc(1198)] eglDestroySurface failed with error EGL_CONTEXT_LOST
+[0906/183112.789:ERROR:gl_surface_egl.cc(544)] EGL Driver message (Critical) eglDestroyContext: display had a context loss
+[0906/183112.789:ERROR:gl_context_egl.cc(207)] eglDestroyContext failed with error EGL_CONTEXT_LOST
+[0906/183112.790:ERROR:gl_surface_egl.cc(544)] EGL Driver message (Critical) eglDestroyContext: display had a context loss
+[0906/183112.790:ERROR:gl_context_egl.cc(207)] eglDestroyContext failed with error EGL_CONTEXT_LOST
+[0906/183212.836:ERROR:gl_surface_egl.cc(544)] EGL Driver message (Critical) eglInitialize: No available renderers.
+[0906/183212.836:ERROR:gl_surface_egl.cc(965)] eglInitialize D3D11 failed with error EGL_NOT_INITIALIZED, trying next display type
+[0906/183813.433:ERROR:gl_surface_egl.cc(544)] EGL Driver message (Critical) eglInitialize: No available renderers.
+[0906/183813.434:ERROR:gl_surface_egl.cc(965)] eglInitialize D3D11 failed with error EGL_NOT_INITIALIZED, trying next display type
+[0906/184103.329:ERROR:browser_process_sub_thread.cc(221)] Waited 22 ms for network service
+[0906/184504.085:ERROR:gl_surface_egl.cc(544)] EGL Driver message (Critical) eglInitialize: No available renderers.
+[0906/184504.085:ERROR:gl_surface_egl.cc(965)] eglInitialize D3D11 failed with error EGL_NOT_INITIALIZED, trying next display type
+[0906/184517.629:ERROR:browser_process_sub_thread.cc(221)] Waited 19 ms for network service
+[0906/191328.566:ERROR:gl_surface_egl.cc(544)] EGL Driver message (Critical) eglInitialize: No available renderers.
+[0906/191328.566:ERROR:gl_surface_egl.cc(965)] eglInitialize D3D11 failed with error EGL_NOT_INITIALIZED, trying next display type
+[0906/192224.685:ERROR:browser_process_sub_thread.cc(221)] Waited 20 ms for network service
+[0906/203121.919:ERROR:gl_surface_egl.cc(544)] EGL Driver message (Critical) eglInitialize: No available renderers.
+[0906/203121.939:ERROR:gl_surface_egl.cc(965)] eglInitialize D3D11 failed with error EGL_NOT_INITIALIZED, trying next display type
+[0906/204906.461:ERROR:gl_surface_egl.cc(544)] EGL Driver message (Critical) eglPostSubBufferNV: Context lost.
+[0906/204906.461:ERROR:gles2_cmd_decoder.cc(16711)] Context lost because SwapBuffers failed.
+[0906/204906.461:ERROR:gles2_cmd_decoder.cc(17080)] Onscreen context lost via ARB/EXT_robustness. Reset status = GL_UNKNOWN_CONTEXT_RESET_KHR
+[0906/204906.461:ERROR:gles2_cmd_decoder.cc(6040)] Error: 5 for Command kPostSubBufferCHROMIUM
+[0906/204906.461:ERROR:gpu_service_impl.cc(809)] Exiting GPU process because some drivers can't recover from errors. GPU process will restart shortly.
+[0906/204906.461:ERROR:gl_surface_egl.cc(544)] EGL Driver message (Critical) eglMakeCurrent: display had a context loss
+[0906/204906.461:ERROR:gl_surface_egl.cc(544)] EGL Driver message (Critical) eglMakeCurrent: Context lost.
+[0906/204906.461:ERROR:gl_surface_egl.cc(544)] EGL Driver message (Critical) eglDestroyContext: display had a context loss
+[0906/204906.462:ERROR:gl_context_egl.cc(207)] eglDestroyContext failed with error EGL_CONTEXT_LOST
+[0906/204906.462:ERROR:gl_surface_egl.cc(544)] EGL Driver message (Critical) eglMakeCurrent: display had a context loss
+[0906/204906.462:ERROR:gl_surface_egl.cc(544)] EGL Driver message (Critical) eglMakeCurrent: display had a context loss
+[0906/204906.462:ERROR:gl_surface_egl.cc(544)] EGL Driver message (Critical) eglDestroyContext: display had a context loss
+[0906/204906.462:ERROR:gl_context_egl.cc(207)] eglDestroyContext failed with error EGL_CONTEXT_LOST
+[0906/204906.462:ERROR:gl_surface_egl.cc(544)] EGL Driver message (Critical) eglMakeCurrent: display had a context loss
+[0906/204906.462:ERROR:gl_surface_egl.cc(544)] EGL Driver message (Critical) eglMakeCurrent: display had a context loss
+[0906/204906.462:ERROR:shared_image_stub.cc(286)] SharedImageStub: MakeCurrent failed
+[0906/204906.462:ERROR:gl_surface_egl.cc(544)] EGL Driver message (Critical) eglDestroySurface: display had a context loss
+[0906/204906.462:ERROR:gl_surface_egl.cc(1198)] eglDestroySurface failed with error EGL_CONTEXT_LOST
+[0906/204906.462:ERROR:gl_surface_egl.cc(544)] EGL Driver message (Critical) eglDestroyContext: display had a context loss
+[0906/204906.462:ERROR:gl_context_egl.cc(207)] eglDestroyContext failed with error EGL_CONTEXT_LOST
+[0906/204906.466:ERROR:gl_surface_egl.cc(544)] EGL Driver message (Critical) eglDestroyContext: display had a context loss
+[0906/204906.467:ERROR:gl_context_egl.cc(207)] eglDestroyContext failed with error EGL_CONTEXT_LOST
+[0906/210605.833:ERROR:gl_surface_egl.cc(544)] EGL Driver message (Critical) eglInitialize: No available renderers.
+[0906/210605.833:ERROR:gl_surface_egl.cc(965)] eglInitialize D3D11 failed with error EGL_NOT_INITIALIZED, trying next display type
+[0906/210607.746:ERROR:browser_process_sub_thread.cc(221)] Waited 18 ms for network service
+[0906/212353.739:ERROR:gl_surface_egl.cc(544)] EGL Driver message (Critical) eglInitialize: No available renderers.
+[0906/212353.739:ERROR:gl_surface_egl.cc(965)] eglInitialize D3D11 failed with error EGL_NOT_INITIALIZED, trying next display type
+[0906/214412.722:ERROR:gl_surface_egl.cc(544)] EGL Driver message (Critical) eglInitialize: No available renderers.
+[0906/214412.722:ERROR:gl_surface_egl.cc(965)] eglInitialize D3D11 failed with error EGL_NOT_INITIALIZED, trying next display type
+[0906/214415.661:INFO:CONSOLE(0)] "
+%cStop!", source:  (0)
+[0906/214415.661:INFO:CONSOLE(0)] "
+%cThis is a browser feature intended for developers. If someone told you to copy-paste something here to enable a Facebook feature or "hack" someone's account, it is a scam and will give them access to your Facebook account.", source:  (0)
+[0906/214415.661:INFO:CONSOLE(0)] "
+%cSee https://www.facebook.com/selfxss for more information.", source:  (0)
+[0906/214415.662:INFO:CONSOLE(0)] "
+%c", source:  (0)
+[0906/214442.172:INFO:CONSOLE(318)] "
+%cStop!", source: https://static.xx.fbcdn.net/rsrc.php/v3/yp/r/d6PZtoN4Sxs.js?_nc_x=Y5Ou1XumfUv (318)
+[0906/214442.172:INFO:CONSOLE(318)] "
+%cThis is a browser feature intended for developers. If someone told you to copy-paste something here to enable a Facebook feature or "hack" someone's account, it is a scam and will give them access to your Facebook account.", source: https://static.xx.fbcdn.net/rsrc.php/v3/yp/r/d6PZtoN4Sxs.js?_nc_x=Y5Ou1XumfUv (318)
+[0906/214442.172:INFO:CONSOLE(318)] "
+%cSee https://www.facebook.com/selfxss for more information.", source: https://static.xx.fbcdn.net/rsrc.php/v3/yp/r/d6PZtoN4Sxs.js?_nc_x=Y5Ou1XumfUv (318)
+[0906/214442.173:INFO:CONSOLE(318)] "
+%c", source: https://static.xx.fbcdn.net/rsrc.php/v3/yp/r/d6PZtoN4Sxs.js?_nc_x=Y5Ou1XumfUv (318)
+[0906/214443.725:INFO:CONSOLE(413)] "Uncaught (in promise) Error: The manifest specifies content that cannot be displayed on this browser/platform.", source: https://static.xx.fbcdn.net/rsrc.php/v3/yW/r/0KnK4PqSqSD.js?_nc_x=Y5Ou1XumfUv (413)
+[0906/214648.061:INFO:CONSOLE(318)] "
+%cStop!", source: https://static.xx.fbcdn.net/rsrc.php/v3/yp/r/d6PZtoN4Sxs.js?_nc_x=Y5Ou1XumfUv (318)
+[0906/214648.061:INFO:CONSOLE(318)] "
+%cThis is a browser feature intended for developers. If someone told you to copy-paste something here to enable a Facebook feature or "hack" someone's account, it is a scam and will give them access to your Facebook account.", source: https://static.xx.fbcdn.net/rsrc.php/v3/yp/r/d6PZtoN4Sxs.js?_nc_x=Y5Ou1XumfUv (318)
+[0906/214648.061:INFO:CONSOLE(318)] "
+%cSee https://www.facebook.com/selfxss for more information.", source: https://static.xx.fbcdn.net/rsrc.php/v3/yp/r/d6PZtoN4Sxs.js?_nc_x=Y5Ou1XumfUv (318)
+[0906/214648.061:INFO:CONSOLE(318)] "
+%c", source: https://static.xx.fbcdn.net/rsrc.php/v3/yp/r/d6PZtoN4Sxs.js?_nc_x=Y5Ou1XumfUv (318)
+[0906/214752.005:INFO:CONSOLE(318)] "
+%cStop!", source: https://static.xx.fbcdn.net/rsrc.php/v3/yp/r/d6PZtoN4Sxs.js?_nc_x=Y5Ou1XumfUv (318)
+[0906/214752.005:INFO:CONSOLE(318)] "
+%cThis is a browser feature intended for developers. If someone told you to copy-paste something here to enable a Facebook feature or "hack" someone's account, it is a scam and will give them access to your Facebook account.", source: https://static.xx.fbcdn.net/rsrc.php/v3/yp/r/d6PZtoN4Sxs.js?_nc_x=Y5Ou1XumfUv (318)
+[0906/214752.005:INFO:CONSOLE(318)] "
+%cSee https://www.facebook.com/selfxss for more information.", source: https://static.xx.fbcdn.net/rsrc.php/v3/yp/r/d6PZtoN4Sxs.js?_nc_x=Y5Ou1XumfUv (318)
+[0906/214752.006:INFO:CONSOLE(318)] "
+%c", source: https://static.xx.fbcdn.net/rsrc.php/v3/yp/r/d6PZtoN4Sxs.js?_nc_x=Y5Ou1XumfUv (318)
+[0906/214819.103:INFO:CONSOLE(318)] "
+%cStop!", source: https://static.xx.fbcdn.net/rsrc.php/v3/yp/r/d6PZtoN4Sxs.js?_nc_x=Y5Ou1XumfUv (318)
+[0906/214819.103:INFO:CONSOLE(318)] "
+%cThis is a browser feature intended for developers. If someone told you to copy-paste something here to enable a Facebook feature or "hack" someone's account, it is a scam and will give them access to your Facebook account.", source: https://static.xx.fbcdn.net/rsrc.php/v3/yp/r/d6PZtoN4Sxs.js?_nc_x=Y5Ou1XumfUv (318)
+[0906/214819.103:INFO:CONSOLE(318)] "
+%cSee https://www.facebook.com/selfxss for more information.", source: https://static.xx.fbcdn.net/rsrc.php/v3/yp/r/d6PZtoN4Sxs.js?_nc_x=Y5Ou1XumfUv (318)
+[0906/214819.103:INFO:CONSOLE(318)] "
+%c", source: https://static.xx.fbcdn.net/rsrc.php/v3/yp/r/d6PZtoN4Sxs.js?_nc_x=Y5Ou1XumfUv (318)
+[0906/214824.195:INFO:CONSOLE(413)] "Uncaught (in promise) Error: The manifest specifies content that cannot be displayed on this browser/platform.", source: https://static.xx.fbcdn.net/rsrc.php/v3/yW/r/0KnK4PqSqSD.js?_nc_x=Y5Ou1XumfUv (413)
+[0906/214832.635:INFO:CONSOLE(0)] "
+%cStop!", source:  (0)
+[0906/214832.635:INFO:CONSOLE(0)] "
+%cThis is a browser feature intended for developers. If someone told you to copy-paste something here to enable a Facebook feature or "hack" someone's account, it is a scam and will give them access to your Facebook account.", source:  (0)
+[0906/214832.636:INFO:CONSOLE(0)] "
+%cSee https://www.facebook.com/selfxss for more information.", source:  (0)
+[0906/214832.636:INFO:CONSOLE(0)] "
+%c", source:  (0)
+[1202/120824.831:ERROR:gl_surface_egl.cc(544)] EGL Driver message (Critical) eglInitialize: No available renderers.
+[1202/120824.872:ERROR:gl_surface_egl.cc(965)] eglInitialize D3D11 failed with error EGL_NOT_INITIALIZED, trying next display type
+[1202/121125.454:ERROR:browser_process_sub_thread.cc(221)] Waited 25 ms for network service
+[1202/121155.663:ERROR:gl_surface_egl.cc(544)] EGL Driver message (Critical) eglInitialize: No available renderers.
+[1202/121155.663:ERROR:gl_surface_egl.cc(965)] eglInitialize D3D11 failed with error EGL_NOT_INITIALIZED, trying next display type
+[1202/121401.447:ERROR:browser_process_sub_thread.cc(221)] Waited 18 ms for network service
+[1202/122125.890:ERROR:gl_surface_egl.cc(544)] EGL Driver message (Critical) eglInitialize: No available renderers.
+[1202/122125.890:ERROR:gl_surface_egl.cc(965)] eglInitialize D3D11 failed with error EGL_NOT_INITIALIZED, trying next display type
+[1202/122135.585:ERROR:browser_process_sub_thread.cc(221)] Waited 20 ms for network service
+[1202/123305.046:ERROR:gl_surface_egl.cc(544)] EGL Driver message (Critical) eglInitialize: No available renderers.
+[1202/123305.046:ERROR:gl_surface_egl.cc(965)] eglInitialize D3D11 failed with error EGL_NOT_INITIALIZED, trying next display type
+[1202/123615.912:ERROR:browser_process_sub_thread.cc(221)] Waited 20 ms for network service
+[1202/133417.157:ERROR:gl_surface_egl.cc(544)] EGL Driver message (Critical) eglInitialize: No available renderers.
+[1202/133417.157:ERROR:gl_surface_egl.cc(965)] eglInitialize D3D11 failed with error EGL_NOT_INITIALIZED, trying next display type
+[1202/133426.066:ERROR:browser_process_sub_thread.cc(221)] Waited 23 ms for network service
+[1202/140834.010:ERROR:gl_surface_egl.cc(544)] EGL Driver message (Critical) eglInitialize: No available renderers.
+[1202/140834.011:ERROR:gl_surface_egl.cc(965)] eglInitialize D3D11 failed with error EGL_NOT_INITIALIZED, trying next display type
+[1202/141234.888:ERROR:browser_process_sub_thread.cc(221)] Waited 19 ms for network service
+[1203/152430.096:ERROR:gl_surface_egl.cc(544)] EGL Driver message (Critical) eglInitialize: No available renderers.
+[1203/152430.127:ERROR:gl_surface_egl.cc(965)] eglInitialize D3D11 failed with error EGL_NOT_INITIALIZED, trying next display type
+[1203/152746.103:ERROR:browser_process_sub_thread.cc(221)] Waited 86 ms for network service
+[1205/120819.413:ERROR:gl_surface_egl.cc(544)] EGL Driver message (Critical) eglInitialize: No available renderers.
+[1205/120819.413:ERROR:gl_surface_egl.cc(965)] eglInitialize D3D11 failed with error EGL_NOT_INITIALIZED, trying next display type
+[1205/120821.709:ERROR:browser_host_impl.cc(1614)] Invalid URL passed to CefBrowserHostImpl::LoadMainFrameURL: 
+[1205/120908.518:ERROR:browser_host_impl.cc(1614)] Invalid URL passed to CefBrowserHostImpl::LoadMainFrameURL: 
+[1205/120908.643:ERROR:gl_surface_egl.cc(544)] EGL Driver message (Critical) eglInitialize: No available renderers.
+[1205/120908.643:ERROR:gl_surface_egl.cc(965)] eglInitialize D3D11 failed with error EGL_NOT_INITIALIZED, trying next display type
+[1205/121008.660:ERROR:gl_surface_egl.cc(544)] EGL Driver message (Critical) eglInitialize: No available renderers.
+[1205/121008.660:ERROR:gl_surface_egl.cc(965)] eglInitialize D3D11 failed with error EGL_NOT_INITIALIZED, trying next display type
+[1205/121135.453:ERROR:browser_process_sub_thread.cc(221)] Waited 43 ms for network service
+[1205/121257.750:ERROR:gl_surface_egl.cc(544)] EGL Driver message (Critical) eglInitialize: No available renderers.
+[1205/121257.750:ERROR:gl_surface_egl.cc(965)] eglInitialize D3D11 failed with error EGL_NOT_INITIALIZED, trying next display type
+[1205/121634.095:ERROR:browser_process_sub_thread.cc(221)] Waited 24 ms for network service
+[1205/121638.064:ERROR:gl_surface_egl.cc(544)] EGL Driver message (Critical) eglInitialize: No available renderers.
+[1205/121638.064:ERROR:gl_surface_egl.cc(965)] eglInitialize D3D11 failed with error EGL_NOT_INITIALIZED, trying next display type
+[1205/121731.569:ERROR:browser_process_sub_thread.cc(221)] Waited 19 ms for network service
+[1205/122651.799:ERROR:gl_surface_egl.cc(544)] EGL Driver message (Critical) eglInitialize: No available renderers.
+[1205/122651.799:ERROR:gl_surface_egl.cc(965)] eglInitialize D3D11 failed with error EGL_NOT_INITIALIZED, trying next display type
+[1205/123909.566:ERROR:gl_surface_egl.cc(544)] EGL Driver message (Critical) eglInitialize: No available renderers.
+[1205/123909.566:ERROR:gl_surface_egl.cc(965)] eglInitialize D3D11 failed with error EGL_NOT_INITIALIZED, trying next display type
+[1205/124236.641:ERROR:gl_surface_egl.cc(544)] EGL Driver message (Critical) eglInitialize: No available renderers.
+[1205/124236.641:ERROR:gl_surface_egl.cc(965)] eglInitialize D3D11 failed with error EGL_NOT_INITIALIZED, trying next display type
+[1205/130415.083:ERROR:gl_surface_egl.cc(544)] EGL Driver message (Critical) eglInitialize: No available renderers.
+[1205/130415.083:ERROR:gl_surface_egl.cc(965)] eglInitialize D3D11 failed with error EGL_NOT_INITIALIZED, trying next display type
+[1205/130419.321:ERROR:browser_process_sub_thread.cc(221)] Waited 19 ms for network service
+[1205/130440.197:ERROR:gl_surface_egl.cc(544)] EGL Driver message (Critical) eglInitialize: No available renderers.
+[1205/130440.197:ERROR:gl_surface_egl.cc(965)] eglInitialize D3D11 failed with error EGL_NOT_INITIALIZED, trying next display type
+[1205/130457.142:ERROR:browser_process_sub_thread.cc(221)] Waited 19 ms for network service
+[1205/130740.638:ERROR:gl_surface_egl.cc(544)] EGL Driver message (Critical) eglInitialize: No available renderers.
+[1205/130740.638:ERROR:gl_surface_egl.cc(965)] eglInitialize D3D11 failed with error EGL_NOT_INITIALIZED, trying next display type
+[1205/130756.632:ERROR:browser_process_sub_thread.cc(221)] Waited 21 ms for network service
+[1205/130810.737:ERROR:gl_surface_egl.cc(544)] EGL Driver message (Critical) eglInitialize: No available renderers.
+[1205/130810.737:ERROR:gl_surface_egl.cc(965)] eglInitialize D3D11 failed with error EGL_NOT_INITIALIZED, trying next display type
+[1205/130827.306:ERROR:browser_process_sub_thread.cc(221)] Waited 20 ms for network service
+[1205/131024.704:ERROR:gl_surface_egl.cc(544)] EGL Driver message (Critical) eglInitialize: No available renderers.
+[1205/131024.704:ERROR:gl_surface_egl.cc(965)] eglInitialize D3D11 failed with error EGL_NOT_INITIALIZED, trying next display type
+[1205/131103.698:ERROR:gl_surface_egl.cc(544)] EGL Driver message (Critical) eglInitialize: No available renderers.
+[1205/131103.698:ERROR:gl_surface_egl.cc(965)] eglInitialize D3D11 failed with error EGL_NOT_INITIALIZED, trying next display type
+[1205/132039.928:ERROR:browser_process_sub_thread.cc(221)] Waited 21 ms for network service
+[1205/132836.524:ERROR:gl_surface_egl.cc(544)] EGL Driver message (Critical) eglInitialize: No available renderers.
+[1205/132836.524:ERROR:gl_surface_egl.cc(965)] eglInitialize D3D11 failed with error EGL_NOT_INITIALIZED, trying next display type
+[1205/133206.502:ERROR:browser_process_sub_thread.cc(221)] Waited 21 ms for network service
+[0412/101316.166:ERROR:browser_process_sub_thread.cc(221)] Waited 33 ms for network service

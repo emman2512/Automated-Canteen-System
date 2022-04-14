@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Canteen System</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="stylesheet" href="bootstrap.min.css">
+  <script src="jquery.min.js"></script>
+  <script src="popper.min.js"></script>
+  <script src="bootstrap.min.js"></script>
+<style>
+  /* Make the image fully responsive */
+  .carousel-inner img {
+      width: 100%;
+      height: 100%;
+  }
+@media only screen and (min-width: 660px) {
+  /* For desktop: */
+  .col-1 {width: 8.33%;}
+  .col-2 {width: 16.66%;}
+  .col-3 {width: 25%;}
+  .col-4 {width: 33.33%;}
+  .col-5 {width: 41.66%;}
+  .col-6 {width: 50%;}
+  .col-7 {width: 58.33%;}
+  .col-8 {width: 66.66%;}
+  .col-9 {width: 75%;border-radius:4px;margin-bottom:10px;}
+  .col-10 {width: 83.33%;}
+  .col-11 {width: 91.66%;}
+  .col-12 {width: 100%;}
+body{margin-left:4.17%;margin-right:4.17%;margin-top:5%;}
+div{width:660px;  display: block;
+  margin-left: auto;
+  margin-right: auto;}
+
+
+}
+}
+  </style>
+</head>
+<body>
+
+<div id="demo" class="carousel slide" data-ride="carousel">
+
+  <!-- Indicators -->
+  <ul class="carousel-indicators">
+    <li data-target="#demo" data-slide-to="0" class="active"></li>
+    <li data-target="#demo" data-slide-to="1"></li>
+    <li data-target="#demo" data-slide-to="2"></li>
+  </ul>
+  
+
+  <div class="carousel-inner">
+    <div class="carousel-item active">
+      <img src="images/canteen.jpg"  width="1100" height="500">
+
+
+    </div>
+
+    <div class="carousel-item">
+      <img src="images/carousel1.jpg"  width="1100" height="500">
+    </div>
+    <div class="carousel-item">
+      <img src="images/carousel3.jpg" width="1100" height="500">
+    </div>
+  </div>
+    
+  <!-- Left and right controls -->
+  <a class="carousel-control-prev" href="#demo" data-slide="prev">
+    <span class="carousel-control-prev-icon"></span>
+  </a>
+  <a class="carousel-control-next" href="#demo" data-slide="next">
+    <span class="carousel-control-next-icon"></span>
+  </a>
+</div>
+<br></br></br>
+<div><center><div class="spinner-grow text-primary"></div><div class="spinner-grow text-primary"></div><div class="spinner-grow text-primary"></div><br>
+<button type="button" class="btn btn-warning" style="padding:30px;width:50%;font-size:30px;">Order Now</button></center>
+</div>
+</body>
+</html>
